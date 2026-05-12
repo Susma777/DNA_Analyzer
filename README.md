@@ -1,2 +1,2 @@
 # DNA_Analyzer
-A simple Python project that analyzes DNA sequences by calculating GC content and sequence length using OOP concepts.
+DNA Analyzer is a bioinformatics project for analyzing DNA sequences using Python. It calculates nucleotide counts (A, T, G, C), GC content, and validates sequences. Designed for learning basic computational biology and data analysis in a simple and efficient way.
