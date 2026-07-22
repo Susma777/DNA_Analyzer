@@ -1,6 +1,6 @@
 # DNA Analyzer
 
-This is a simple Python project that analyzes DNA sequences from a FASTA file.
+This project analyzes DNA sequences using Python.
 
 ## Features
 
@@ -13,7 +13,6 @@ This is a simple Python project that analyzes DNA sequences from a FASTA file.
 
 ## Project Structure
 
-DNA_Analyzer/
 - dna_analyzer.py
 - gene.fna
 - README.md
